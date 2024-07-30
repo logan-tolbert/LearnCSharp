@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\logo8\\source\\repos\\LearnCSharp\\var\\variables.csproj",
-      "projectName": "variables",
-      "projectPath": "C:\\Users\\logo8\\source\\repos\\LearnCSharp\\var\\variables.csproj",
+      "projectUniqueName": "C:\\Users\\logo8\\source\\repos\\LearnCSharp\\ConsoleApp1\\operators.csproj",
+      "projectName": "operators",
+      "projectPath": "C:\\Users\\logo8\\source\\repos\\LearnCSharp\\ConsoleApp1\\operators.csproj",
       "packagesPath": "C:\\Users\\logo8\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\logo8\\source\\repos\\LearnCSharp\\var\\obj\\",
+      "outputPath": "C:\\Users\\logo8\\source\\repos\\LearnCSharp\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\logo8\\AppData\\Roaming\\NuGet\\NuGet.Config",

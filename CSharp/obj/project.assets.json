@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\logo8\\source\\repos\\LearnCSharp\\CSharp\\CSharp.csproj",
-      "projectName": "CSharp",
-      "projectPath": "C:\\Users\\logo8\\source\\repos\\LearnCSharp\\CSharp\\CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\logo8\\source\\repos\\LearnCSharp\\CSharp\\decisions.csproj",
+      "projectName": "decisions",
+      "projectPath": "C:\\Users\\logo8\\source\\repos\\LearnCSharp\\CSharp\\decisions.csproj",
       "packagesPath": "C:\\Users\\logo8\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\logo8\\source\\repos\\LearnCSharp\\CSharp\\obj\\",
       "projectStyle": "PackageReference",
