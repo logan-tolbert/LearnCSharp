@@ -1,0 +1,14 @@
+C:\Users\logo8\source\repos\LearnCSharp\CSharp\bin\Debug\net8.0\decisions.exe
+C:\Users\logo8\source\repos\LearnCSharp\CSharp\bin\Debug\net8.0\decisions.deps.json
+C:\Users\logo8\source\repos\LearnCSharp\CSharp\bin\Debug\net8.0\decisions.runtimeconfig.json
+C:\Users\logo8\source\repos\LearnCSharp\CSharp\bin\Debug\net8.0\decisions.dll
+C:\Users\logo8\source\repos\LearnCSharp\CSharp\bin\Debug\net8.0\decisions.pdb
+C:\Users\logo8\source\repos\LearnCSharp\CSharp\obj\Debug\net8.0\decisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logo8\source\repos\LearnCSharp\CSharp\obj\Debug\net8.0\decisions.AssemblyInfoInputs.cache
+C:\Users\logo8\source\repos\LearnCSharp\CSharp\obj\Debug\net8.0\decisions.AssemblyInfo.cs
+C:\Users\logo8\source\repos\LearnCSharp\CSharp\obj\Debug\net8.0\decisions.csproj.CoreCompileInputs.cache
+C:\Users\logo8\source\repos\LearnCSharp\CSharp\obj\Debug\net8.0\decisions.dll
+C:\Users\logo8\source\repos\LearnCSharp\CSharp\obj\Debug\net8.0\refint\decisions.dll
+C:\Users\logo8\source\repos\LearnCSharp\CSharp\obj\Debug\net8.0\decisions.pdb
+C:\Users\logo8\source\repos\LearnCSharp\CSharp\obj\Debug\net8.0\decisions.genruntimeconfig.cache
+C:\Users\logo8\source\repos\LearnCSharp\CSharp\obj\Debug\net8.0\ref\decisions.dll

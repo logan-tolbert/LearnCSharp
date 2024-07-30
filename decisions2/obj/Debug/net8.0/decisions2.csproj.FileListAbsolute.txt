@@ -1,0 +1,14 @@
+C:\Users\logo8\source\repos\LearnCSharp\decisions2\obj\Debug\net8.0\decisions2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logo8\source\repos\LearnCSharp\decisions2\obj\Debug\net8.0\decisions2.AssemblyInfoInputs.cache
+C:\Users\logo8\source\repos\LearnCSharp\decisions2\obj\Debug\net8.0\decisions2.AssemblyInfo.cs
+C:\Users\logo8\source\repos\LearnCSharp\decisions2\obj\Debug\net8.0\decisions2.csproj.CoreCompileInputs.cache
+C:\Users\logo8\source\repos\LearnCSharp\decisions2\bin\Debug\net8.0\decisions2.exe
+C:\Users\logo8\source\repos\LearnCSharp\decisions2\bin\Debug\net8.0\decisions2.deps.json
+C:\Users\logo8\source\repos\LearnCSharp\decisions2\bin\Debug\net8.0\decisions2.runtimeconfig.json
+C:\Users\logo8\source\repos\LearnCSharp\decisions2\bin\Debug\net8.0\decisions2.dll
+C:\Users\logo8\source\repos\LearnCSharp\decisions2\bin\Debug\net8.0\decisions2.pdb
+C:\Users\logo8\source\repos\LearnCSharp\decisions2\obj\Debug\net8.0\decisions2.dll
+C:\Users\logo8\source\repos\LearnCSharp\decisions2\obj\Debug\net8.0\refint\decisions2.dll
+C:\Users\logo8\source\repos\LearnCSharp\decisions2\obj\Debug\net8.0\decisions2.pdb
+C:\Users\logo8\source\repos\LearnCSharp\decisions2\obj\Debug\net8.0\decisions2.genruntimeconfig.cache
+C:\Users\logo8\source\repos\LearnCSharp\decisions2\obj\Debug\net8.0\ref\decisions2.dll
